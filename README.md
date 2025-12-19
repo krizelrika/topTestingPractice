@@ -14,3 +14,10 @@ The goal of this assignment is to practice Test-Driven Development (TDD) by writ
 - JavaScript (ES6)
 - Jest – JavaScript testing framework
 - Babel – Enables ES6 module support in Jest
+
+## 🧠 What This Project Teaches
+* Writing tests before implementation
+* Understanding Jest matchers (toBe, toEqual, etc.)
+* Testing edge cases and error conditions
+* Structuring code for testability
+* Using ES6 imports with Jest and Babel
