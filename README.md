@@ -9,3 +9,8 @@ The goal of this assignment is to practice Test-Driven Development (TDD) by writ
 - Write unit tests for small, pure JavaScript functions
 - Implement functions that satisfy the test cases
 - Understand how testing improves confidence and code quality
+
+## 🛠️ Technologies Used
+- JavaScript (ES6)
+- Jest – JavaScript testing framework
+- Babel – Enables ES6 module support in Jest
